@@ -4,7 +4,8 @@
 
 # Step 1:
 # Build image and add a descriptive tag
-dockerimage=udacity-project-submission
+docker build --tag=ml-auto-operation-api .
+dockerimage=ml-auto-operation-api
 
 # Step 2: 
 # List docker images

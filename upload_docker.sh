@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 
 # Create dockerpath
-dockerpath=mreggert96/udacity-project-submission
-dockerimage=udacity-project-submission
+dockerpath="heyeman/udacity-operationalize"
+dockerimage=ml-auto-operation-api
  
 # Authenticate & tag
 docker login

@@ -1,4 +1,6 @@
-<include a CircleCI status badge, here>
+[![CircleCI](https://circleci.com/gh/Heyeman/udacity-machine-learning-microservice.svg?style=svg)](https://circleci.com/gh/Heyeman/udacity-machine-learning-microservice)
+# Operationalize-a-Machine-Learning-Microservice-API
+Microservice Project [Udacity Cloud DevOps Engineer Nanodegree]
 
 ## Project Overview
 
