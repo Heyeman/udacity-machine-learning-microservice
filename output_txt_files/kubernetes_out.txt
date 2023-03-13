@@ -1,6 +1,9 @@
-Port: 8000
-{
-  "prediction": [
-    20.35373177134412
-  ]
-}
+pod/ml-auto-operation-api created
+Waiting for pod to get into status ready...
+error: timed out waiting for the condition on pods/ml-auto-operation-api
+Pod is ready!
+NAME                    READY   STATUS    RESTARTS   AGE
+ml-auto-operation-api   1/1     Running   0          34s
+Forwarding from 127.0.0.1:8000 -> 80
+Forwarding from [::1]:8000 -> 80
+Handling connection for 8000
